@@ -1,0 +1,36 @@
+{
+  "id": "60832e9e-7b78-4c80-9127-ee069d087e1c",
+  "uid": "voluptas-ea-incidunt",
+  "type": "post",
+  "data": {
+    "title": [
+      {
+        "type": "paragraph",
+        "text": "Consequat eu consequat velit eu commodo ea nulla aliquip ea. Dolore in ut magna dolor.",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Nostrud ipsum adipisicing incididunt velit ullamco laboris ipsum esse. Tempor consectetur pariatur consequat deserunt qui nostrud in qui fugiat deserunt. Irure id aliqua enim quis deserunt sunt quis deserunt reprehenderit qui.",
+        "spans": []
+      }
+    ],
+    "excerpt": "enable virtual bandwidth",
+    "coverimage": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?w=900&h=500&fit=crop"
+    },
+    "date": "2012-08-26",
+    "author": {
+      "link_type": "Web",
+      "url": "http://google.com"
+    }
+  }
+}
